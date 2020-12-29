@@ -29,6 +29,6 @@ In this module Permissions/Privileges are attached with Roles. Roles can be dyna
 ```
 
 ## DB_SCHEMA
-![DB_SCHEMA](/oauth2-authentication-role-based/src/main/resources/images/DB_SCHEMA.PNG "DB schema diagram")
+![DB_SCHEMA](https://raw.githubusercontent.com/qasimnawaz94/oauth2-authentication-role-based/master/src/main/resources/images/DB_SCHEMA.PNG)
 
 
